@@ -14,7 +14,7 @@ Seoul Toilet ("the app") is provided by braindance ("we", "us"). This policy exp
 - You do not need an account. We do not ask for your name, email, or phone number.
 - Your location is used only on your device, only after you tap the location button, and only while the app is open.
 - We do not run servers for this app, so we do not receive or store your location or any other personal information.
-- The app has no ads, no analytics, and no tracking.
+- The app displays ads provided by Google AdMob. Google may process device and ad interaction data as described below.
 
 ## 1. Location
 
@@ -38,23 +38,34 @@ We do not send your location to NAVER for any purpose of ours.
 
 When you tap "Get Directions", the app opens the NAVER Map app (or Apple Maps if NAVER Map is not available) with the restroom's location as the destination. The app passes only the destination, not your current location. Once the other app opens, its own privacy policy applies.
 
-## 4. Information we do not collect
+## 4. Advertising and consent (Google AdMob)
 
-We do not collect or store: names, contact details, account information, photos, contacts, advertising identifiers, usage analytics, or crash reports.
+The app uses the Google Mobile Ads SDK to display ads. Depending on your region and choices, Google may process information such as IP address, device identifiers, advertising data, ad interactions, diagnostics, performance data, and coarse location derived from the IP address. The app does not send your precise GPS location to Google for advertising.
 
-## 5. Children
+Where required, Google's User Messaging Platform asks for consent before the app requests ads. If Google requires a privacy-options entry point, it is available from the app's About screen. The app does not request Apple's App Tracking Transparency permission in this version. Because of this, neither the app nor Google can access your device's advertising identifier (IDFA).
+
+Learn more:
+
+- How Google uses data: <https://policies.google.com/technologies/partner-sites>
+- Google Privacy Policy: <https://policies.google.com/privacy>
+
+## 5. Information we do not collect directly
+
+We do not operate an app server and do not directly collect or store names, contact details, account information, photos, contacts, precise location, advertising identifiers, usage analytics, or crash reports. Third-party services may process the technical information described in this policy.
+
+## 6. Children
 
 The app is not directed at children under 14, and we do not knowingly collect personal information from anyone.
 
-## 6. Restroom information
+## 7. Restroom information
 
 Restroom locations, opening hours, and other details come from public data (see "Data sources" in the app). This information may be incomplete or out of date. Please check signs on site.
 
-## 7. Changes to this policy
+## 8. Changes to this policy
 
 If the app starts using information differently, we will update this policy and change the effective date above before the change takes effect.
 
-## 8. Contact
+## 9. Contact
 
 braindance (Representative: Junki Kim)
 Email: <hello.braindance@gmail.com>
