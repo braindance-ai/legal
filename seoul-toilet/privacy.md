@@ -3,6 +3,7 @@ title: Privacy Policy
 permalink: /seoul-toilet/privacy/
 ---
 
+# Privacy Policy — Seoul Toilet
 
 Effective date: [YYYY-MM-DD — set on release]
 
@@ -29,7 +30,7 @@ You can change this at any time in iOS Settings > Privacy & Security > Location 
 ## 2. Map service (NAVER Maps)
 
 The map is provided by the NAVER Maps SDK (NAVER Cloud Platform). To display the map, your device downloads map data from NAVER's servers. As with any online map, NAVER may process technical information such as your IP address, device and app information, and the map areas being displayed. This is handled under NAVER's own privacy policy:
-https://policy.naver.com/policy/privacy_en.html
+<https://policy.naver.com/policy/privacy_en.html>
 
 We do not send your location to NAVER for any purpose of ours.
 
@@ -56,7 +57,7 @@ If the app starts using information differently, we will update this policy and 
 ## 8. Contact
 
 braindance (Representative: Junki Kim)
-Email: hello.braindance@gmail.com
+Email: <hello.braindance@gmail.com>
 
 
 [한국어](../privacy-ko/)

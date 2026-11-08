@@ -3,6 +3,7 @@ title: 개인정보 처리방침
 permalink: /seoul-toilet/privacy-ko/
 ---
 
+# 개인정보 처리방침 — Seoul Toilet
 
 시행일: [YYYY-MM-DD — 출시 시 입력]
 
@@ -24,7 +25,7 @@ braindance(이하 "회사")는 Seoul Toilet 앱(이하 "앱")에서 이용자의
 
 ### 지도 서비스 (네이버 지도)
 지도 표시를 위해 네이버 클라우드 플랫폼의 NAVER Maps SDK를 사용합니다. 지도를 불러오는 과정에서 네이버가 IP 주소, 기기·앱 정보, 표시 중인 지도 영역 등 기술적 정보를 처리할 수 있으며, 이는 네이버의 개인정보처리방침에 따릅니다.
-https://policy.naver.com/policy/privacy.html
+<https://policy.naver.com/policy/privacy.html>
 
 ### 길찾기 (네이버지도 앱, Apple 지도)
 "Get Directions"를 누르면 네이버지도 앱(사용할 수 없을 때는 Apple 지도)을 열고, 선택한 화장실의 위치만 목적지로 전달합니다. 이용자의 현재 위치는 전달하지 않습니다. 해당 앱이 열린 이후에는 그 앱의 개인정보처리방침이 적용됩니다.
@@ -49,7 +50,7 @@ https://policy.naver.com/policy/privacy.html
 
 - 회사명: braindance
 - 개인정보 보호책임자: 김준기 (대표)
-- 이메일: hello.braindance@gmail.com
+- 이메일: <hello.braindance@gmail.com>
 
 ## 9. 방침의 변경
 
